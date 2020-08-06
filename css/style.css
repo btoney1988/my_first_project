@@ -1,0 +1,35 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: brown;
+    background-color: cornsilk;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: darkmagenta;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+a {
+    color: deeppink;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#contact {
+    background-color: dimgray;
+}
